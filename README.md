@@ -1,4 +1,4 @@
-# Prework-study-guid
+# Prework-study-guide
 A study guid for course pre-work.
 
 # Prework Study Guide Webpage
